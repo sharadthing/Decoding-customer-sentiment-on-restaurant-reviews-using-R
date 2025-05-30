@@ -1,5 +1,5 @@
 # Decoding-customer-sentiment-on-restaurant-reviews-using-R
-![Loading Animation](https://mayalashesandbeauty.co.uk/img/Loading.gif)
+
 # Restaurant Reviews Sentiment Analysis
 
 *Technologies:* R, tidyverse, tm, caret, ggplot2, text mining, machine learning
